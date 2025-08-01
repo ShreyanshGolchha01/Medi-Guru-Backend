@@ -1,0 +1,189 @@
+{
+    "originalFileName": "new_training_PreTest_Results.xlsx",
+    "uploadedAt": "2025-07-31 20:08:17",
+    "uploadedBy": 2,
+    "meetingId": "4",
+    "fileType": "pretest",
+    "data": [
+        {
+            "S.No.": 1,
+            "Name": "Aman Gupta",
+            "Department": "IT",
+            "Score": 36,
+            "Total Questions": 50,
+            "Percentage": "72.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 2,
+            "Name": "Anjali Sharma",
+            "Department": "Electronics",
+            "Score": 38,
+            "Total Questions": 50,
+            "Percentage": "76.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 3,
+            "Name": "Ankit Jha",
+            "Department": "Civil",
+            "Score": 32,
+            "Total Questions": 50,
+            "Percentage": "64.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 4,
+            "Name": "Anurag Mishra",
+            "Department": "Computer Science",
+            "Score": 49,
+            "Total Questions": 50,
+            "Percentage": "98.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 5,
+            "Name": "Deepak Rawat",
+            "Department": "Biotech",
+            "Score": 34,
+            "Total Questions": 50,
+            "Percentage": "68.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 6,
+            "Name": "Divya Desai",
+            "Department": "Electronics",
+            "Score": 44,
+            "Total Questions": 50,
+            "Percentage": "88.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 7,
+            "Name": "Harshit Rao",
+            "Department": "Mechanical",
+            "Score": 33,
+            "Total Questions": 50,
+            "Percentage": "66.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 8,
+            "Name": "Kritika Soni",
+            "Department": "Electrical",
+            "Score": 48,
+            "Total Questions": 50,
+            "Percentage": "96.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 9,
+            "Name": "Kunal Thakur",
+            "Department": "Civil",
+            "Score": 43,
+            "Total Questions": 50,
+            "Percentage": "86.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 10,
+            "Name": "Meena Kumari",
+            "Department": "Civil",
+            "Score": 39,
+            "Total Questions": 50,
+            "Percentage": "78.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 11,
+            "Name": "Mohit Patel",
+            "Department": "Electrical",
+            "Score": 39,
+            "Total Questions": 50,
+            "Percentage": "78.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 12,
+            "Name": "Neha Jain",
+            "Department": "Biotech",
+            "Score": 40,
+            "Total Questions": 50,
+            "Percentage": "80.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 13,
+            "Name": "Priya Singh",
+            "Department": "Civil",
+            "Score": 41,
+            "Total Questions": 50,
+            "Percentage": "82.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 14,
+            "Name": "Ravi Verma",
+            "Department": "Mechanical",
+            "Score": 45,
+            "Total Questions": 50,
+            "Percentage": "90.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 15,
+            "Name": "Riya Sharma",
+            "Department": "Computer Science",
+            "Score": 37,
+            "Total Questions": 50,
+            "Percentage": "74.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 16,
+            "Name": "Sakshi Meena",
+            "Department": "Electronics",
+            "Score": 31,
+            "Total Questions": 50,
+            "Percentage": "62.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 17,
+            "Name": "Sanya Mehra",
+            "Department": "Computer Science",
+            "Score": 46,
+            "Total Questions": 50,
+            "Percentage": "92.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 18,
+            "Name": "Shruti Verma",
+            "Department": "IT",
+            "Score": 30,
+            "Total Questions": 50,
+            "Percentage": "60.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 19,
+            "Name": "Tanmay Gupta",
+            "Department": "Mechanical",
+            "Score": 35,
+            "Total Questions": 50,
+            "Percentage": "70.0%",
+            "Status": "completed"
+        },
+        {
+            "S.No.": 20,
+            "Name": "Yashwant Nayak",
+            "Department": "Computer Science",
+            "Score": 42,
+            "Total Questions": 50,
+            "Percentage": "84.0%",
+            "Status": "completed"
+        }
+    ]
+}
