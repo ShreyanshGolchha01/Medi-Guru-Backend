@@ -1,0 +1,27 @@
+{
+    "originalFileName": "Attendance Report - mng-kccv-khj (31-Jul-2025).csv",
+    "uploadedAt": "2025-07-31 20:09:16",
+    "uploadedBy": 2,
+    "meetingId": "1",
+    "fileType": "registered",
+    "data": [
+        {
+            "SNo": 1,
+            "Participant Name": "YASHWANT NAYAK",
+            "Attendance Started at": "1:49:23 PM",
+            "Joined at(beta)": "1:53:26 PM",
+            "Attendance Stopped at": "1:55:45 PM",
+            "Attended Duration": "1 min 56s",
+            "Meeting code": "mng-kccv-khj"
+        },
+        {
+            "SNo": 2,
+            "Participant Name": "SEAGUTS",
+            "Attendance Started at": "1:49:23 PM",
+            "Joined at(beta)": "1:49:23 PM",
+            "Attendance Stopped at": "1:55:45 PM",
+            "Attended Duration": "6 min 22s",
+            "Meeting code": "mng-kccv-khj"
+        }
+    ]
+}

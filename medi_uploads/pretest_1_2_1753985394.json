@@ -1,0 +1,149 @@
+{
+    "originalFileName": "pritest.csv",
+    "uploadedAt": "2025-07-31 20:09:54",
+    "uploadedBy": 2,
+    "meetingId": "1",
+    "fileType": "pretest",
+    "data": [
+        {
+            "name": "Yashwant Nayak",
+            "department": "Computer Science",
+            "score": 42,
+            "totalmarks": 50,
+            "percentage": 84
+        },
+        {
+            "name": "Anjali Sharma",
+            "department": "Electronics",
+            "score": 38,
+            "totalmarks": 50,
+            "percentage": 76
+        },
+        {
+            "name": "Ravi Verma",
+            "department": "Mechanical",
+            "score": 45,
+            "totalmarks": 50,
+            "percentage": 90
+        },
+        {
+            "name": "Priya Singh",
+            "department": "Civil",
+            "score": 41,
+            "totalmarks": 50,
+            "percentage": 82
+        },
+        {
+            "name": "Mohit Patel",
+            "department": "Electrical",
+            "score": 39,
+            "totalmarks": 50,
+            "percentage": 78
+        },
+        {
+            "name": "Sanya Mehra",
+            "department": "Computer Science",
+            "score": 46,
+            "totalmarks": 50,
+            "percentage": 92
+        },
+        {
+            "name": "Aman Gupta",
+            "department": "IT",
+            "score": 36,
+            "totalmarks": 50,
+            "percentage": 72
+        },
+        {
+            "name": "Neha Jain",
+            "department": "Biotech",
+            "score": 40,
+            "totalmarks": 50,
+            "percentage": 80
+        },
+        {
+            "name": "Kunal Thakur",
+            "department": "Civil",
+            "score": 43,
+            "totalmarks": 50,
+            "percentage": 86
+        },
+        {
+            "name": "Divya Desai",
+            "department": "Electronics",
+            "score": 44,
+            "totalmarks": 50,
+            "percentage": 88
+        },
+        {
+            "name": "Riya Sharma",
+            "department": "Computer Science",
+            "score": 37,
+            "totalmarks": 50,
+            "percentage": 74
+        },
+        {
+            "name": "Tanmay Gupta",
+            "department": "Mechanical",
+            "score": 35,
+            "totalmarks": 50,
+            "percentage": 70
+        },
+        {
+            "name": "Kritika Soni",
+            "department": "Electrical",
+            "score": 48,
+            "totalmarks": 50,
+            "percentage": 96
+        },
+        {
+            "name": "Ankit Jha",
+            "department": "Civil",
+            "score": 32,
+            "totalmarks": 50,
+            "percentage": 64
+        },
+        {
+            "name": "Shruti Verma",
+            "department": "IT",
+            "score": 30,
+            "totalmarks": 50,
+            "percentage": 60
+        },
+        {
+            "name": "Deepak Rawat",
+            "department": "Biotech",
+            "score": 34,
+            "totalmarks": 50,
+            "percentage": 68
+        },
+        {
+            "name": "Sakshi Meena",
+            "department": "Electronics",
+            "score": 31,
+            "totalmarks": 50,
+            "percentage": 62
+        },
+        {
+            "name": "Harshit Rao",
+            "department": "Mechanical",
+            "score": 33,
+            "totalmarks": 50,
+            "percentage": 66
+        },
+        {
+            "name": "Meena Kumari",
+            "department": "Civil",
+            "score": 39,
+            "totalmarks": 50,
+            "percentage": 78
+        },
+        {
+            "name": "Anurag Mishra",
+            "department": "Computer Science",
+            "score": 49,
+            "totalmarks": 50,
+            "percentage": 98
+        }
+    ]
+}
