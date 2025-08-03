@@ -2,7 +2,8 @@
 // Database configuration for Medi Guru Portal
 $servername = "localhost";
 $username = "root";
-$password = "Ssipmt@2025DODB";
+// $password = "Ssipmt@2025DODB";
+$password = "";
 $dbname = "mediguru";
 
 // CORS headers for React frontend - MUST BE FIRST
@@ -34,3 +35,4 @@ try {
     die("Connection failed: " . $e->getMessage());
 }
 ?>
+
